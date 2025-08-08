@@ -8,7 +8,7 @@
 - **File Manager** • [yazi](https://github.com/sxyazi/yazi)🔖 Customizable cli file manager!
 - **Text-editor** • [vim](https://github.com/vim/vim) Minimal and simple text editor!
 ## Representation
-![Video](video.mp4)
+![Screenshot](Screenshot_08-Aug_02-58-20_16054.png)
 
 ## Credits
 
